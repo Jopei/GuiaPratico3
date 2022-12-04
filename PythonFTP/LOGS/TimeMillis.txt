@@ -1,0 +1,7 @@
+Foi usada a funcao de cadastrar novo usuario       data de modificacao: 03/12/22 16:26
+Foi usada a funcao de fazer login na api       data de modificacao: 03/12/22 16:28
+Foi usada a funcao de listar usuarios       data de modificacao: 03/12/22 16:30
+Foi usada a funcao de adicionar um novo veiculo na tebela 1       data de modificacao: 03/12/22 16:30
+Foi usada a funcao de Recuperar todos dados da tabela 1       data de modificacao: 03/12/22 16:31
+Foi usada a funcao de criar item na tabela 2       data de modificacao: 03/12/22 16:31
+Foi usada a funcao de listar todos os itens da tabela 2       data de modificacao: 03/12/22 16:31
